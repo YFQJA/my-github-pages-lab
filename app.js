@@ -80,3 +80,6 @@
     initializeFilters();
   });
 })();
+
+// CI exercise: the "Static website checks" job validates this file's JavaScript syntax.
+const qualityGateDemo = ;
