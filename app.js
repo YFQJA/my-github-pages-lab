@@ -80,3 +80,5 @@
     initializeFilters();
   });
 })();
+
+const ciFailureDemo = ;
